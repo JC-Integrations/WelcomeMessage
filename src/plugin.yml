@@ -1,0 +1,5 @@
+  name: WelcomeMessage
+  main: dk.jazper.welcomemessage.WelcomeMessage
+  author: J4asper
+  version: 1.0
+  api-version: 1.17
