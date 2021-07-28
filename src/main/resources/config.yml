@@ -1,0 +1,54 @@
+# Don't touch this
+version: 1.1
+
+
+# Placeholders:
+#   [displayName] <- The display name of the user joining.
+
+# You can use the colorcodes and formats at the buttom of this file
+
+# If you leave first-join-message empty, then it will send the message from welcome-message instead.
+# If welcome-message or leave-message, the default join/leave message will be sent.
+
+# The message sent, when a user joins the server for the first time
+# first-join-message: "&6&l[displayName] joined for the first time!"
+first-join-message:
+
+# The message sent, when a user joins the server
+# welcome-message: "&a[displayName] joined the server!"
+welcome-message:
+
+# The message sent, when a user leaves the server
+# leave-message: "&c[displayName] left the server!"
+leave-message:
+
+
+
+# COLOR CODES
+# -----------
+# Red          - &c
+# Gold         - &6
+# Aqua         - &b
+# Blue         - &9
+# Gray         - &7
+# Green        - &a
+# White        - &f
+# Black        - &0
+# Yellow       - &e
+# Dark Red     - &4
+# Dark Gray    - &8
+# Dark Aqua    - &3
+# Dark Blue    - &1
+# Dark Green   - &2
+# Dark Purple  - &5
+# Light Purple - &d
+
+
+# FORMAT CODES
+# ------------
+# Bold             - &l
+# Italic           - &o
+# Underline        - &n
+# Obfuscated       - &k
+# Strikethrough    - &m
+# Reset to default - &r
